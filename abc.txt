@@ -4,3 +4,5 @@ hi git
  payment mode
  send money 
  recive money
+
+test design
